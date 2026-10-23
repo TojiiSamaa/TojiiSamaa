@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="96" viewBox="0 0 720 96" role="img" aria-label="Toji × Claude Code">
+  <style>
+    .fond { fill: #0d1117; stroke: #30363d; }
+    .txt { font: 600 26px ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
+    .sous { font: 13px ui-monospace, Menlo, Consolas, monospace; fill: #7d8590; }
+    .toji { fill: #e6edf3; }
+    .x { fill: #7d8590; }
+    .cc { fill: #d97757; }
+    .frappe { animation: avance 6s steps(24, end) infinite; }
+    .curseur { animation: clignote 1s step-end infinite, avance 6s steps(24, end) infinite; fill: #d97757; }
+    .balai { animation: balai 6s ease-in-out infinite; }
+    @keyframes avance { 0% { transform: translateX(0) } 40%, 85% { transform: translateX(470px) } 100% { transform: translateX(0) } }
+    @keyframes clignote { 50% { opacity: 0 } }
+    @keyframes balai { 0%, 40% { transform: translateX(-200px); opacity: 0 } 55% { opacity: .5 } 75%, 100% { transform: translateX(760px); opacity: 0 } }
+  </style>
+  <defs>
+    <clipPath id="c"><rect class="frappe" x="-400" y="18" height="44" width="470"/></clipPath>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#d97757" stop-opacity="0"/><stop offset=".5" stop-color="#d97757"/><stop offset="1" stop-color="#d97757" stop-opacity="0"/></linearGradient>
+    <clipPath id="cadre"><rect x="1" y="1" width="718" height="94" rx="12"/></clipPath>
+  </defs>
+  <rect class="fond" x=".5" y=".5" width="719" height="95" rx="12"/>
+  <g clip-path="url(#cadre)"><rect class="balai" x="0" y="93" width="200" height="2" fill="url(#g)"/></g>
+  <text class="txt cc" x="36" y="50">❯</text>
+  <g clip-path="url(#c)">
+    <text class="txt" x="70" y="50"><tspan class="toji">toji</tspan><tspan class="x"> × </tspan><tspan class="cc">claude code</tspan></text>
+  </g>
+  <rect class="curseur" x="72" y="28" width="12" height="28" rx="1"/>
+  <text class="sous" x="70" y="76">rédigé à deux, relu par un humain</text>
+</svg>
