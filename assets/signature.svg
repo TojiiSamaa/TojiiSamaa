@@ -6,15 +6,15 @@
     .toji { fill: #e6edf3; }
     .x { fill: #7d8590; }
     .cc { fill: #d97757; }
-    .frappe { animation: avance 6s steps(24, end) infinite; }
-    .curseur { animation: clignote 1s step-end infinite, avance 6s steps(24, end) infinite; fill: #d97757; }
+    .frappe { animation: avance 6s steps(18, end) infinite; }
+    .curseur { animation: clignote 1s step-end infinite, avance 6s steps(18, end) infinite; fill: #d97757; }
     .balai { animation: balai 6s ease-in-out infinite; }
-    @keyframes avance { 0% { transform: translateX(0) } 40%, 85% { transform: translateX(470px) } 100% { transform: translateX(0) } }
+    @keyframes avance { 0% { transform: translateX(0) } 40%, 85% { transform: translateX(285px) } 100% { transform: translateX(0) } }
     @keyframes clignote { 50% { opacity: 0 } }
     @keyframes balai { 0%, 40% { transform: translateX(-200px); opacity: 0 } 55% { opacity: .5 } 75%, 100% { transform: translateX(760px); opacity: 0 } }
   </style>
   <defs>
-    <clipPath id="c"><rect class="frappe" x="-400" y="18" height="44" width="470"/></clipPath>
+    <clipPath id="c"><rect class="frappe" x="-215" y="18" height="44" width="285"/></clipPath>
     <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#d97757" stop-opacity="0"/><stop offset=".5" stop-color="#d97757"/><stop offset="1" stop-color="#d97757" stop-opacity="0"/></linearGradient>
     <clipPath id="cadre"><rect x="1" y="1" width="718" height="94" rx="12"/></clipPath>
   </defs>
