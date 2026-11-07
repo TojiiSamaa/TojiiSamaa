@@ -23,6 +23,7 @@
 <img src="assets/t-contrib.svg" alt="Forks et contributions" width="100%">
 
 <p align="center">
+<a href="https://github.com/TojiiSamaa/capri-web"><img src="assets/carte-fork-capri-web.svg" alt="capri-web" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/opnmcp"><img src="assets/carte-fork-opnmcp.svg" alt="opnmcp" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/vibeMK"><img src="assets/carte-fork-vibemk.svg" alt="vibeMK" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/Kotbo"><img src="assets/carte-fork-kotbo.svg" alt="Kotbo" width="49%"></a>
