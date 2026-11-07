@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="img" aria-label="PROJETS PUBLICS">
+<style>.n{font:700 14px ui-monospace,'Cascadia Mono',Consolas,Menlo,monospace;letter-spacing:3px;fill:#e0001b} .x{font:800 17px 'Bahnschrift','Segoe UI','Helvetica Neue',Arial,sans-serif;letter-spacing:6px;fill:#f2f2f2}</style>
+<polygon points="0,12 16,12 16,28 8,28 0,20" fill="#e0001b"/>
+<text class="n" x="32" y="25">02</text><text class="x" x="76" y="26">PROJETS PUBLICS</text>
+<rect x="308.5" y="19" width="871.5" height="1" fill="#2a2a2a"/>
+<rect x="308.5" y="18" width="48" height="3" fill="#e0001b"/></svg>
