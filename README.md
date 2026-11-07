@@ -36,4 +36,4 @@
 <img src="assets/outils/g-ia-outils.svg" alt="IA et OUTILS" height="36"><br><a href="https://claude.com/claude-code"><img src="assets/outils/anthropic.svg" alt="Claude Code" height="36"></a><a href="https://ollama.com"><img src="assets/outils/ollama.svg" alt="Ollama" height="36"></a><a href="https://discord.com"><img src="assets/outils/discord.svg" alt="Discord" height="36"></a><a href="https://obsidian.md"><img src="assets/outils/obsidian.svg" alt="Obsidian" height="36"></a><a href="https://github.com/dani-garcia/vaultwarden"><img src="assets/outils/vaultwarden.svg" alt="Vaultwarden" height="36"></a><a href="https://www.elgato.com/stream-deck"><img src="assets/outils/elgato.svg" alt="Stream Deck" height="36"></a><br>
 
 
-<p align="center"><img src="assets/pied.svg" alt="Arasaka" width="560"></p>
+<p align="center"><img src="assets/signature.svg" alt="Arasaka" width="560"></p>
