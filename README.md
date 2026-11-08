@@ -24,6 +24,7 @@
 <img src="assets/t-contrib.svg" alt="Forks et contributions" width="100%">
 
 <p align="center">
+<a href="https://github.com/TojiiSamaa/SocialVideoDownload.py"><img src="assets/carte-fork-socialvideodownload.py.svg" alt="SocialVideoDownload.py" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/capri-web-rust"><img src="assets/carte-fork-capri-web-rust.svg" alt="capri-web-rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/opnmcp"><img src="assets/carte-fork-opnmcp.svg" alt="opnmcp" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/vibeMK"><img src="assets/carte-fork-vibemk.svg" alt="vibeMK" width="49%"></a>
