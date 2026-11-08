@@ -18,7 +18,7 @@
 <a href="https://github.com/TojiiSamaa/Home-Assistant-MCP-Rust"><img src="assets/carte-home-assistant-mcp-rust.svg" alt="Home-Assistant-MCP-Rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/studio-creation"><img src="assets/carte-studio-creation.svg" alt="studio-creation" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/anime4k-rs"><img src="assets/carte-anime4k-rs.svg" alt="anime4k-rs" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/laya-retex"><img src="assets/carte-laya-retex.svg" alt="laya-retex" width="49%"></a>
+<a href="https://github.com/TojiiSamaa/laya-benchmark"><img src="assets/carte-laya-benchmark.svg" alt="laya-benchmark" width="49%"></a>
 </p>
 
 <img src="assets/t-contrib.svg" alt="Forks et contributions" width="100%">
