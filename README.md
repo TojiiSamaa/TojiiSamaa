@@ -18,16 +18,16 @@
 <a href="https://github.com/TojiiSamaa/Home-Assistant-Rust"><img src="assets/carte-home-assistant-rust.svg" alt="Home-Assistant-Rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/Home-Assistant-MCP-Rust"><img src="assets/carte-home-assistant-mcp-rust.svg" alt="Home-Assistant-MCP-Rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/studio-creation"><img src="assets/carte-studio-creation.svg" alt="studio-creation" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/anime4k-rs"><img src="assets/carte-anime4k-rs.svg" alt="anime4k-rs" width="49%"></a>
+<a href="https://github.com/TojiiSamaa/anime4k-rust"><img src="assets/carte-anime4k-rust.svg" alt="anime4k-rust" width="49%"></a>
 </p>
 
 <img src="assets/t-contrib.svg" alt="Forks et contributions" width="100%">
 
 <p align="center">
-<a href="https://github.com/TojiiSamaa/netbox-mcp-server"><img src="assets/carte-fork-netbox-mcp-server.svg" alt="netbox-mcp-server" width="49%"></a>
+<a href="https://github.com/TojiiSamaa/netbox-mcp-rust"><img src="assets/carte-fork-netbox-mcp-rust.svg" alt="netbox-mcp-rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/SocialVideoDownload.py"><img src="assets/carte-fork-socialvideodownload.py.svg" alt="SocialVideoDownload.py" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/capri-web-rust"><img src="assets/carte-fork-capri-web-rust.svg" alt="capri-web-rust" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/opnmcp"><img src="assets/carte-fork-opnmcp.svg" alt="opnmcp" width="49%"></a>
+<a href="https://github.com/TojiiSamaa/opnmcp-rust"><img src="assets/carte-fork-opnmcp-rust.svg" alt="opnmcp-rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/vibeMK"><img src="assets/carte-fork-vibemk.svg" alt="vibeMK" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/Kotbo"><img src="assets/carte-fork-kotbo.svg" alt="Kotbo" width="49%"></a>
 </p>
