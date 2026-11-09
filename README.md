@@ -14,6 +14,7 @@
 <img src="assets/t-projets.svg" alt="Projets publics" width="100%">
 
 <p align="center">
+<a href="https://github.com/TojiiSamaa/mcp-arr-rust"><img src="assets/carte-mcp-arr-rust.svg" alt="mcp-arr-rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/Home-Assistant-MCP-Rust"><img src="assets/carte-home-assistant-mcp-rust.svg" alt="Home-Assistant-MCP-Rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/Home-Assistant-Rust"><img src="assets/carte-home-assistant-rust.svg" alt="Home-Assistant-Rust" width="49%"></a>
 <a href="https://github.com/TojiiSamaa/anime4k-rust"><img src="assets/carte-anime4k-rust.svg" alt="anime4k-rust" width="49%"></a>
