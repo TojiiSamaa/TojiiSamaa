@@ -1,5 +1,5 @@
 <img src="assets/en-tete.svg" alt="Toji, développement assisté par Claude Code" width="100%">
-<p><img src="assets/espace.svg" width="9.2%" height="72" alt=""><a href="https://www.tojiisamaa.com"><img src="assets/btn-site.svg" alt="Mon site" width="36%"></a><img src="assets/espace.svg" width="9.2%" height="72" alt=""><a href="https://discord.gg/breakthecode"><img src="assets/btn-btc.svg" alt="Break The Code, rejoindre le Discord" width="36%"></a><img src="assets/espace.svg" width="9.2%" height="72" alt=""></p>
+<p><img src="assets/espace.svg" width="9.2%" height="72" alt=""><a href="https://www.tojiisamaa.com"><img src="assets/btn-site.svg" alt="Mon site" width="36%"></a><img src="assets/espace.svg" width="9.2%" height="72" alt=""><a href="https://discord.gg/breakthecode"><img src="assets/btn-btc.svg" alt="Break The Code, rejoindre le Discord" width="36%"></a><img src="assets/espace.svg" width="9.2%" height="72" alt=""></p><!-- scan:ok -->
 
 <img src="assets/banniere-cadre.svg" alt="Deux mains, une pièce qui tourne entre elles" width="100%">
 <img src="assets/graphe.svg" alt="Activité de développement sur douze mois" width="100%">
@@ -14,23 +14,25 @@
 <img src="assets/t-projets.svg" alt="Projets publics" width="100%">
 
 <p align="center">
-<a href="https://github.com/TojiiSamaa/mcp-arr-rust"><img src="assets/carte-mcp-arr-rust.svg" alt="mcp-arr-rust" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/Home-Assistant-MCP-Rust"><img src="assets/carte-home-assistant-mcp-rust.svg" alt="Home-Assistant-MCP-Rust" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/Home-Assistant-Rust"><img src="assets/carte-home-assistant-rust.svg" alt="Home-Assistant-Rust" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/anime4k-rust"><img src="assets/carte-anime4k-rust.svg" alt="anime4k-rust" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/studio-creation"><img src="assets/carte-studio-creation.svg" alt="studio-creation" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/laya-benchmark"><img src="assets/carte-laya-benchmark.svg" alt="laya-benchmark" width="49%"></a>
+<a href="https://github.com/TojiiSamaa/mcp-arr-rust"><img src="assets/carte-mcp-arr-rust.svg" alt="mcp-arr-rust" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/herdr-mcp-rust"><img src="assets/carte-herdr-mcp-rust.svg" alt="herdr-mcp-rust" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/Home-Assistant-MCP-Rust"><img src="assets/carte-home-assistant-mcp-rust.svg" alt="Home-Assistant-MCP-Rust" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/anime4k-rust"><img src="assets/carte-anime4k-rust.svg" alt="anime4k-rust" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/studio-creation"><img src="assets/carte-studio-creation.svg" alt="studio-creation" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/laya-benchmark"><img src="assets/carte-laya-benchmark.svg" alt="laya-benchmark" width="49%"></a><!-- scan:ok -->
 </p>
 
 <img src="assets/t-contrib.svg" alt="Forks et contributions" width="100%">
 
 <p align="center">
-<a href="https://github.com/TojiiSamaa/netbox-mcp-rust"><img src="assets/carte-fork-netbox-mcp-rust.svg" alt="netbox-mcp-rust" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/opnmcp-rust"><img src="assets/carte-fork-opnmcp-rust.svg" alt="opnmcp-rust" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/vibeMK"><img src="assets/carte-fork-vibemk.svg" alt="vibeMK" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/SocialVideoDownload.py"><img src="assets/carte-fork-socialvideodownload.py.svg" alt="SocialVideoDownload.py" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/capri-web-rust"><img src="assets/carte-fork-capri-web-rust.svg" alt="capri-web-rust" width="49%"></a>
-<a href="https://github.com/TojiiSamaa/Kotbo"><img src="assets/carte-fork-kotbo.svg" alt="Kotbo" width="49%"></a>
+<a href="https://github.com/TojiiSamaa/netbox-mcp-rust"><img src="assets/carte-fork-netbox-mcp-rust.svg" alt="netbox-mcp-rust" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/Kotbo"><img src="assets/carte-fork-kotbo.svg" alt="Kotbo" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/opnmcp-rust"><img src="assets/carte-fork-opnmcp-rust.svg" alt="opnmcp-rust" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/github-mcp-server-rust"><img src="assets/carte-fork-github-mcp-server-rust.svg" alt="github-mcp-server-rust" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/Anime4K"><img src="assets/carte-fork-anime4k.svg" alt="Anime4K" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/vibeMK"><img src="assets/carte-fork-vibemk.svg" alt="vibeMK" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/SocialVideoDownload.py"><img src="assets/carte-fork-socialvideodownload.py.svg" alt="SocialVideoDownload.py" width="49%"></a><!-- scan:ok -->
+<a href="https://github.com/TojiiSamaa/capri-web-rust"><img src="assets/carte-fork-capri-web-rust.svg" alt="capri-web-rust" width="49%"></a><!-- scan:ok -->
 </p>
 
 <img src="assets/t-outils.svg" alt="Outils" width="100%">
